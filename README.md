@@ -18,7 +18,6 @@ Com Python 3 instalado, execute no terminal:
 ```bash
 python main.py
 ```
-
 ## Visualização do grafo
 
 Para converter o arquivo DOT em imagem (requer Graphviz):
